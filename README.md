@@ -9,12 +9,6 @@ Features:
 - Turn-based play
 - Win detection
 
-How to Run:
-1. Make sure you have Python 3.x installed.
-2. Save the script as `snake_ladder_gui.py`
-3. Run the script:
-   > python snake_ladder_gui.py
-
 How to Play:
 - Players take turns to roll the dice by clicking the "Roll Dice" button.
 - Landing on a ladder moves you up.
